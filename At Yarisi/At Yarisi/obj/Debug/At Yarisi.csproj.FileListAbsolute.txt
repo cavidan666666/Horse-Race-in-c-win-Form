@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2017\Projects\At Yarisi\At Yarisi\bin\Debug\At Yarisi.exe.config
+c:\users\user\documents\visual studio 2017\Projects\At Yarisi\At Yarisi\bin\Debug\At Yarisi.exe
+c:\users\user\documents\visual studio 2017\Projects\At Yarisi\At Yarisi\bin\Debug\At Yarisi.pdb
+c:\users\user\documents\visual studio 2017\Projects\At Yarisi\At Yarisi\obj\Debug\At Yarisi.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\At Yarisi\At Yarisi\obj\Debug\At_Yarisi.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\At Yarisi\At Yarisi\obj\Debug\At_Yarisi.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\At Yarisi\At Yarisi\obj\Debug\At Yarisi.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\At Yarisi\At Yarisi\obj\Debug\At Yarisi.exe
+c:\users\user\documents\visual studio 2017\Projects\At Yarisi\At Yarisi\obj\Debug\At Yarisi.pdb
